@@ -1,3 +1,2 @@
 ehco one
 echo two
-echo three
