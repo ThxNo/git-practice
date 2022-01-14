@@ -1,2 +1,0 @@
-ehco one
-echo two
